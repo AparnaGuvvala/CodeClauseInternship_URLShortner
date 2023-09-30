@@ -1,2 +1,2 @@
 # CodeClauseInternship_URLShortner
-This project is a web development project which take a long URL and shortens the URL
+https://aparnaguvvala.github.io/CodeClauseInternship_URLShortner/ click here for a quick preview of my project
